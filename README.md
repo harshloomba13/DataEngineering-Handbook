@@ -17,7 +17,9 @@ Third Round => System Design Interview
 5. Gen AI system design
 6. Concurrency 
 
-Fourth Round => Low Level Design 
+Fourth Round => Low Level Design
+1. https://github.com/harshloomba13/awesome-low-level-design
+2. https://github.com/harshloomba13/python-patterns
 
 Fifth Rount => Behavior/Level Up round 
 1. Staff Engineer Path book 
