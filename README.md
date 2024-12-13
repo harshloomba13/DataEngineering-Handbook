@@ -17,6 +17,7 @@ Second Round - DS & Algo
 1. Leetcode 75 blind => https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 2. Educative Coding Interview Pattern => https://www.educative.io/courses/grokking-coding-interview
 3. Python => https://www.educative.io/courses/mastering-the-art-of-programming-in-python-3/custom-meta-classes
+4. GenAI practice => https://learn.deeplearning.ai/
 
 Third Round => System Design Interview 
 1. Alex Wu Vol1 & Vol2
