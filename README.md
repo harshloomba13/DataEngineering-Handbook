@@ -15,11 +15,13 @@ Third Round => System Design Interview
 3. YouTube Video [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
 4. Tech Blog Of companies => https://github.com/harshloomba13/data-engineer-handbook?tab=readme-ov-file#data-engineering-blogs-of-companies
 5. Gen AI system design
-6. Concurrency 
+6. Concurrency
+7. Github
+8. https://github.com/harshloomba13/system-design-primer
 
 Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
 2. https://github.com/harshloomba13/python-patterns
 
-Fifth Rount => Behavior/Level Up round 
+Fifth Round => Behavior/Level Up round 
 1. Staff Engineer Path book 
