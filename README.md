@@ -21,10 +21,10 @@ Third Round => System Design Interview
 3. YouTube Video [Jordan has no life](https://www.youtube.com/@jordanhasnolife5163)
 4. Tech Blog Of companies => https://github.com/harshloomba13/data-engineer-handbook?tab=readme-ov-file#data-engineering-blogs-of-companies
 5. Gen AI system design
-6. Concurrency
-7. Github
-8. https://github.com/harshloomba13/system-design-primer
-9. https://www.educative.io/courses/advanced-system-design-interview-prep-crash-course
+6. https://github.com/harshloomba13/system-design-primer
+7. https://www.educative.io/courses/advanced-system-design-interview-prep-crash-course
+8. https://www.educative.io/path/deep-dive-into-system-design-interview
+9. https://www.educative.io/path/scalability-system-design
 
 Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
