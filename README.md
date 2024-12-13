@@ -5,7 +5,7 @@ First Round - Technical Screening
 2. Coding Interview Patterns => https://www.educative.io/courses/grokking-coding-interview
 3. Concurrency =>
 4. Kubernetes => https://www.educative.io/courses/learn-kubernetes
-5. CI/CD
+5. CI/CD => https://www.educative.io/path/devops-for-developers
 6. Data Intensive Application
 7. Deep Dive in Database => https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database
 
