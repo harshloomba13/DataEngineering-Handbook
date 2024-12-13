@@ -13,13 +13,11 @@ First Round - Technical Screening
 7. Deep Dive in Database => https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database
 8. Kafka => https://www.educative.io/courses/mastering-apache-kafka
 
-=================================
 Second Round - DS & Algo
 1. Leetcode 75 blind => https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 2. Educative Coding Interview Pattern => https://www.educative.io/courses/grokking-coding-interview
 3. Python => https://www.educative.io/courses/mastering-the-art-of-programming-in-python-3/custom-meta-classes
 
-=================================
 Third Round => System Design Interview 
 1. Alex Wu Vol1 & Vol2
 2. Grokking Modern System Design Interview => https://www.educative.io/courses/grokking-the-system-design-interview
@@ -31,17 +29,14 @@ Third Round => System Design Interview
 8. https://www.educative.io/path/deep-dive-into-system-design-interview
 9. https://www.educative.io/path/scalability-system-design
 
-=================================
 Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
 2. https://github.com/harshloomba13/python-patterns
 
-==================================
 Fifth Round => Behavior/Level Up round 
 1. Staff Engineer Path book
 
-My Channel => https://www.youtube.com/channel/UCda61Ufo0FYsZkt5Tc4-1kQ
-
-[Harsh_Resume.pdf](https://github.com/user-attachments/files/18122237/Harsh_Resume.pdf)
+- My Channel => https://www.youtube.com/channel/UCda61Ufo0FYsZkt5Tc4-1kQ
+- [Harsh_Resume.pdf](https://github.com/user-attachments/files/18122237/Harsh_Resume.pdf)
 
 
