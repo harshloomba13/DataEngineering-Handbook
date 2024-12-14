@@ -8,11 +8,12 @@ First Round - Technical Screening
 2. Coding Interview Patterns => https://www.educative.io/courses/grokking-coding-interview
 3. Concurrency => https://www.educative.io/courses/python-concurrency-for-senior-engineering-interviews
 4. Concurrency - https://sookocheff.com/post/concurrency/concurrency-a-primer/
-5. Kubernetes => https://www.educative.io/courses/learn-kubernetes
-6. CI/CD => https://www.educative.io/path/devops-for-developers
-7. Data Intensive Application
-8. Deep Dive in Database => https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database
-9. Kafka => https://www.educative.io/courses/mastering-apache-kafka
+5. Concurrency => https://github.com/harshloomba13/-Java-Concurrency-in-Practice-Source-Code
+6. Kubernetes => https://www.educative.io/courses/learn-kubernetes
+7. CI/CD => https://www.educative.io/path/devops-for-developers
+8. Data Intensive Application
+9. Deep Dive in Database => https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database
+10. Kafka => https://www.educative.io/courses/mastering-apache-kafka
 
 Second Round - DS & Algo
 1. Leetcode 75 blind => https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
