@@ -35,6 +35,7 @@ Third Round => System Design Interview
 Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
 2. https://github.com/harshloomba13/python-patterns
+3. https://github.com/harshloomba13/awesome-distributed-systems
 
 Fifth Round => Behavior/Level Up round 
 1. Staff Engineer Path book
