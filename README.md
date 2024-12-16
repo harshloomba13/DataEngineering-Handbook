@@ -34,6 +34,8 @@ Third Round => System Design Interview
 10. https://www.educative.io/path/scalability-system-design
 11. https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design
 12. https://github.com/harshloomba13/SDFC
+13. https://github.com/harshloomba13/learning-notes
+14. https://github.com/harshloomba13/awesome-system-design
 
 Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
