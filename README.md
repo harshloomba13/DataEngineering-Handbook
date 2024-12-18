@@ -21,6 +21,7 @@ Second Round - DS & Algo
 3. Python => https://www.educative.io/courses/mastering-the-art-of-programming-in-python-3/custom-meta-classes
 4. GenAI practice => https://learn.deeplearning.ai/
 5. Cheatsheet - https://github.com/rgbedin/interview-prep/blob/main/algo-sheet.md
+6. Medium - https://medium.com/@ricbedin/how-i-landed-4-staff-l6-software-engineering-offers-amazon-meta-stripe-and-braze-cfeed8d3e5a9
 
 Third Round => System Design Interview 
 1. Alex Wu Vol1 & Vol2
