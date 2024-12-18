@@ -20,6 +20,7 @@ Second Round - DS & Algo
 2. Educative Coding Interview Pattern => https://www.educative.io/courses/grokking-coding-interview
 3. Python => https://www.educative.io/courses/mastering-the-art-of-programming-in-python-3/custom-meta-classes
 4. GenAI practice => https://learn.deeplearning.ai/
+5. Cheatsheet - https://github.com/rgbedin/interview-prep/blob/main/algo-sheet.md
 
 Third Round => System Design Interview 
 1. Alex Wu Vol1 & Vol2
