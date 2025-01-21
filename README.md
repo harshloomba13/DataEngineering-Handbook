@@ -43,6 +43,7 @@ Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
 2. https://github.com/harshloomba13/python-patterns
 3. https://github.com/harshloomba13/awesome-distributed-systems
+4. https://medium.com/@prashant558908/4-most-common-design-patterns-that-are-essential-to-solve-low-level-design-interview-questions-b7196c8c2b8b
 
 Fifth Round => Behavior/Level Up round 
 1. Staff Engineer Path book
