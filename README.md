@@ -14,6 +14,7 @@ First Round - Technical Screening
 8. Data Intensive Application
 9. Deep Dive in Database => https://www.educative.io/courses/deep-dive-into-the-internals-of-the-database
 10. Kafka => https://www.educative.io/courses/mastering-apache-kafka
+11. DEvops => https://roadmap.sh/devops
 
 Second Round - DS & Algo
 1. Leetcode 75 blind => https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
