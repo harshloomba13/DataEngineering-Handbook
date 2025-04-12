@@ -39,6 +39,7 @@ Third Round => System Design Interview
 12. https://github.com/harshloomba13/SDFC
 13. https://github.com/harshloomba13/learning-notes
 14. https://github.com/harshloomba13/awesome-system-design
+15. collective - https://www.linkedin.com/feed/update/urn:li:activity:7316461366771339267?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7316461366771339267%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
 
 Fourth Round => Low Level Design
 1. https://github.com/harshloomba13/awesome-low-level-design
